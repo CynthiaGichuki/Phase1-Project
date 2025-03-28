@@ -30,11 +30,10 @@ The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-databas
 - **Weather Conditions** (IMC/VMC)
 
 ### Visualizations:
-#### 1. **Distribution of Accidents Across Flight Phases**
-   - This visualization highlights that the highest number of accidents occur during landing then takeoff phases.
+#### 1. **Distribution of Fatal Injuries Across Flight Phases**
+   - This visualization highlights that most fatal injuries occur during takeoff and landing phases.
 
-     ![image](https://github.com/user-attachments/assets/165c98ee-385a-4483-bd0f-a18b1b6635d2)
-
+![image](https://github.com/user-attachments/assets/97486aef-d246-4dec-b2ed-776a1784e8c1)
 
    
 #### 2. **Correlation Matrix of Key Variables**
@@ -43,8 +42,11 @@ The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-databas
    - ![image](https://github.com/user-attachments/assets/b61e0bd7-1424-44c8-b8e1-c6289758688e)
 
    
-#### 3. **Accident Causes and Their Impact on Fatalities**
-   - Human error and mechanical failures emerge as the top contributors to fatal accidents.
+### 3. **Aircraft Manufacturers and the Total Number of Accidents**
+   - Highlights which aircraft manufacturers have the highest number of recorded accidents.
+
+   - ![image](https://github.com/user-attachments/assets/0a9d115f-65bf-403a-80a1-52bbbd40d28b)
+
 
 ## Conclusion
 ### Key Findings:
