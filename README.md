@@ -12,23 +12,30 @@ This project analyzes aviation accident data to identify trends, risk factors, a
 
 ### Key Business Questions:
 1. What are the primary causes of aviation accidents?
-2. How do aircraft characteristics (e.g., engine count) relate to accident severity?
-3. What measures can be taken to reduce accident rates and fatal injuries?
+2. Which aircraft types are most frequently involved in severe accidents?
+3. How do aircraft characteristics (e.g., engine count) relate to accident severity?
+4. What measures can be taken to reduce accident rates and fatal injuries?
 
 ## Data Understanding and Analysis
 ### Source of Data:
 The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) was sourced from publicly available aviation accident databases, including the NTSB (National Transportation Safety Board) and other aviation regulatory agencies and contains records from 1962 to 2023
 
 ### Description of Data:
-- **Flight Phase** (e.g., Takeoff, Landing, Cruise)
-- **Accident Cause** (e.g., Human Error, Mechanical Failure, Weather)
-- **Number of Fatal Injuries**
+- **Event ID** – Unique identifier for each accident.
+- **Flight Phase** – The phase of flight during which the accident occurred.
+- **Accident Category** – Categorization of what led to the accident (e.g., human error, mechanical failure).
+- **Aircraft Type** – Type of aircraft involved in the accident.
+- **Fatal Injuries** – The number of deaths resulting from the accident.
 - **Aircraft Engine Count**
 - **Weather Conditions** (IMC/VMC)
 
 ### Visualizations:
-#### 1. **Distribution of Fatal Injuries Across Flight Phases**
-   - This visualization highlights that most fatal injuries occur during takeoff and landing phases.
+#### 1. **Distribution of Accidents Across Flight Phases**
+   - This visualization highlights that the highest number of accidents occur during landing then takeoff phases.
+
+     ![image](https://github.com/user-attachments/assets/165c98ee-385a-4483-bd0f-a18b1b6635d2)
+
+
    
 #### 2. **Correlation Matrix of Key Variables**
    - Shows relationships between accident causes, aircraft characteristics, and fatalities.
