@@ -17,7 +17,7 @@ This project analyzes aviation accident data to identify trends, risk factors, a
 
 ## Data Understanding and Analysis
 ### Source of Data:
-The dataset was sourced from publicly available aviation accident databases, including the NTSB (National Transportation Safety Board) and other aviation regulatory agencies.
+The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) was sourced from publicly available aviation accident databases, including the NTSB (National Transportation Safety Board) and other aviation regulatory agencies and contains records from 1962 to 2023
 
 ### Description of Data:
 - **Flight Phase** (e.g., Takeoff, Landing, Cruise)
