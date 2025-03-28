@@ -32,6 +32,9 @@ The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-databas
    
 #### 2. **Correlation Matrix of Key Variables**
    - Shows relationships between accident causes, aircraft characteristics, and fatalities.
+
+   - ![image](https://github.com/user-attachments/assets/b61e0bd7-1424-44c8-b8e1-c6289758688e)
+
    
 #### 3. **Accident Causes and Their Impact on Fatalities**
    - Human error and mechanical failures emerge as the top contributors to fatal accidents.
@@ -53,4 +56,4 @@ The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-databas
 - **Emergency Preparedness & Response** – Improve emergency protocols to reduce accident severity.
 
 ---
-This README provides an overview of the aviation accident analysis, offering insights and recommendations for improved aviation safety. 🚀
+This README provides an overview of the aviation accident analysis, offering insights and recommendations for improved aviation safety.
