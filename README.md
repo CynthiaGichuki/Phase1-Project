@@ -47,8 +47,8 @@ The [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-databas
 
    - ![image](https://github.com/user-attachments/assets/0a9d115f-65bf-403a-80a1-52bbbd40d28b)
 
-## Link to the interractive Tableau Dashboard
-[https://public.tableau.com/views/AviationAccidentRiskAnalysisDashboard/AviationAccidentRiskAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+## Link to the interactive Tableau Dashboard
+https://public.tableau.com/views/AviationAccidentRiskAnalysisDashboard/AviationAccidentRiskAnalysisDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ## Conclusion
